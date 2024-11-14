@@ -32,3 +32,9 @@ https://colab.research.google.com/drive/1m_ytUjmKV_a3Yw0r7dDsOfU0bJWiwyOs?usp=sh
 - YOLOv10 Fine-Tuning: Optimized for brain tumor detection.
 - Interactive Gradio UI: Easy-to-use interface for non-technical users.
 - Modular Design: Designed for future expansion to support more medical imaging applications.
+# Screenshots
+![image](https://github.com/user-attachments/assets/c57e53f9-ea91-47e1-a3ad-e1ff905b24f4)
+![image](https://github.com/user-attachments/assets/fa2a2193-98af-40cf-970e-729816a73700)
+![image](https://github.com/user-attachments/assets/8a342412-fcf3-493f-8789-ca2c6bb6448f)
+
+
